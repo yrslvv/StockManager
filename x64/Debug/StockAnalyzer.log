@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\yarik\Desktop\StockAnalyzer\src\StockPortfolio.h(85,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  StockAnalyzer.vcxproj -> C:\Users\yarik\Desktop\StockAnalyzer\x64\Debug\StockAnalyzer.exe
